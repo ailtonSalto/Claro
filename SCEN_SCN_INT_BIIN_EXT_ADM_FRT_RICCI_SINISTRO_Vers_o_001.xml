@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SunopsisExport>
+<Admin RepositoryVersion="04.03.04.02" />
+<Object class="com.sunopsis.dwg.dbobj.SnpScen">
+		<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-05-29 14:22:33.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[T3504722]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndPromptParam" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[3491676]]></Field>
+	<Field name="IScenFolder" type="com.sunopsis.sql.DbInt"><![CDATA[21676]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-05-29 14:23:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[T3504722]]></Field>
+	<Field name="ScenName" type="java.lang.String"><![CDATA[SCN_INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenVersion" type="java.lang.String"><![CDATA[001]]></Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpVarScen">
+		<Field name="DefDate" type="java.sql.Timestamp">null</Field>
+	<Field name="DefN" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="DefV" type="java.lang.String">null</Field>
+	<Field name="IndStore" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="ITxtDefT" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[T]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[90_BI_IN.v_BIIN_NM_ARQUIVO]]></Field>
+	<Field name="VarParam" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="VarParamOrder" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpVarScen">
+		<Field name="DefDate" type="java.sql.Timestamp">null</Field>
+	<Field name="DefN" type="com.sunopsis.sql.DbInt"><![CDATA[123]]></Field>
+	<Field name="DefV" type="java.lang.String">null</Field>
+	<Field name="IndStore" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="ITxtDefT" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[N]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[90_BI_IN.v_BIIN_ODI_SESSAO_LOG]]></Field>
+	<Field name="VarParam" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="VarParamOrder" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpVarScen">
+		<Field name="DefDate" type="java.sql.Timestamp">null</Field>
+	<Field name="DefN" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="DefV" type="java.lang.String">null</Field>
+	<Field name="IndStore" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="ITxtDefT" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[N]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[90_BI_IN.v_BIIN_ID_ARQUIVO_MAPEADO]]></Field>
+	<Field name="VarParam" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="VarParamOrder" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenStep">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="FContextCode" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
+	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoExit" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="KoExitCode" type="java.lang.String">null</Field>
+	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="MaxErr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="MaxErrPrct" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ModCode" type="java.lang.String"><![CDATA[DEV_BI_STG]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OkExit" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="OkExitCode" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ResName" type="java.lang.String"><![CDATA[EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="StepName" type="java.lang.String"><![CDATA[INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="StepType" type="java.lang.String"><![CDATA[F]]></Field>
+	<Field name="TableName" type="java.lang.String"><![CDATA[EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="VarIncr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String">null</Field>
+	<Field name="VarOp" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[FILE_BIIN_AMX_ADM]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[FILE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[drop table <?=snpRef.getObjectName("L", "%COL_PRF0EXT_ADM_FRT_RICCI_SINISTRO", "W") ?>]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Carregando]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[SrcSet0]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Drop work table]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[FILE_BIIN_AMX_ADM]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[FILE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[drop table <?=snpRef.getObjectName("L", "%COL_PRF0EXT_ADM_FRT_RICCI_SINISTRO", "W") ?>]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[1000004]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Carregando]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[SrcSet0]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Drop work table]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String">null</Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String">null</Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[BEANSHELL]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[<? String vSessaoODI = odiRef.getSession("SESS_NO");?>	]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[B]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Integração]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Capture Session]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[J]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[truncate table <?=snpRef.getObjectName("L", "EXT_ADM_FRT_RICCI_SINISTRO", "ORACLE_INN_NET_BI_STG", "", "D") ?>
+]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[90]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Integração]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Truncate target table]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[J]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[ 
+insert /*+ APPEND*/ into	<?=snpRef.getObjectName("L", "EXT_ADM_FRT_RICCI_SINISTRO", "ORACLE_INN_NET_BI_STG", "", "D") ?> 
+( 
+	NR_SEQUENCIA,
+	CD_DOCUMENTO,
+	NM_CLIENTE,
+	NR_CNPJ,
+	NM_CIDADE,
+	NR_AGRUPA_NF,
+	NM_FORMA_EMISSAO_NF,
+	DT_VENCIMENTO_NF,
+	CD_SINISTRO,
+	CD_FROTA,
+	CD_PLACA_VEICULO,
+	NM_MODELO_VEICULO,
+	DT_ACIDENTE,
+	DT_ABERTURA_OS,
+	NR_HORA_ACIDENTE,
+	CD_PREPOSTO,
+	NM_GRUPO_CLIENTE,
+	NM_TIPO_SINISTRO,
+	NM_CLASSIFICACAO,
+	NR_CONTRATO,
+	VL_DIARIA,
+	QT_SINISTRO,
+	NM_SERVICO_PRESTADO,
+	VL_SERVICO,
+	VL_TOTAL 
+	,DT_INCLUSAO,
+	ID_SESSAO_ODI,
+	ID_ARQUIVO_MAPEADO 
+) 
+
+select
+    NR_SEQUENCIA,
+	CD_DOCUMENTO,
+	NM_CLIENTE,
+	NR_CNPJ,
+	NM_CIDADE,
+	NR_AGRUPA_NF,
+	NM_FORMA_EMISSAO_NF,
+	DT_VENCIMENTO_NF,
+	CD_SINISTRO,
+	CD_FROTA,
+	CD_PLACA_VEICULO,
+	NM_MODELO_VEICULO,
+	DT_ACIDENTE,
+	DT_ABERTURA_OS,
+	NR_HORA_ACIDENTE,
+	CD_PREPOSTO,
+	NM_GRUPO_CLIENTE,
+	NM_TIPO_SINISTRO,
+	NM_CLASSIFICACAO,
+	NR_CONTRATO,
+	VL_DIARIA,
+	QT_SINISTRO,
+	NM_SERVICO_PRESTADO,
+	VL_SERVICO,
+	VL_TOTAL   
+  ,SYSDATE,
+	#90_BI_IN.v_BIIN_ODI_SESSAO_LOG,
+	#90_BI_IN.v_BIIN_ID_ARQUIVO_MAPEADO 
+FROM (	
+
+
+select 	
+	C1_NR_SEQUENCIA NR_SEQUENCIA,
+	C2_CD_DOCUMENTO CD_DOCUMENTO,
+	C3_NM_CLIENTE NM_CLIENTE,
+	C4_NR_CNPJ NR_CNPJ,
+	C5_NM_CIDADE NM_CIDADE,
+	C6_NR_AGRUPA_NF NR_AGRUPA_NF,
+	C7_NM_FORMA_EMISSAO_NF NM_FORMA_EMISSAO_NF,
+	C8_DT_VENCIMENTO_NF DT_VENCIMENTO_NF,
+	C9_CD_SINISTRO CD_SINISTRO,
+	C10_CD_FROTA CD_FROTA,
+	C11_CD_PLACA_VEICULO CD_PLACA_VEICULO,
+	C12_NM_MODELO_VEICULO NM_MODELO_VEICULO,
+	C13_DT_ACIDENTE DT_ACIDENTE,
+	C14_DT_ABERTURA_OS DT_ABERTURA_OS,
+	C15_NR_HORA_ACIDENTE NR_HORA_ACIDENTE,
+	C16_CD_PREPOSTO CD_PREPOSTO,
+	C17_NM_GRUPO_CLIENTE NM_GRUPO_CLIENTE,
+	C18_NM_TIPO_SINISTRO NM_TIPO_SINISTRO,
+	C19_NM_CLASSIFICACAO NM_CLASSIFICACAO,
+	C20_NR_CONTRATO NR_CONTRATO,
+	C21_VL_DIARIA VL_DIARIA,
+	C22_QT_SINISTRO QT_SINISTRO,
+	C23_NM_SERVICO_PRESTADO NM_SERVICO_PRESTADO,
+	C24_VL_SERVICO VL_SERVICO,
+	C25_VL_TOTAL VL_TOTAL 
+from	<?=snpRef.getObjectName("L", "%COL_PRF0EXT_ADM_FRT_RICCI_SINISTRO", "ORACLE_INN_NET_BI_STG", "W")?>
+where		(1=1)	
+
+
+
+
+
+
+)    ODI_GET_FROM
+
+
+]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[110]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Integração]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Insert new rows]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[J]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[/* commit */]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Integração]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[INT_BIIN_EXT_ADM_FRT_RICCI_SINISTRO]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Commit transaction]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[J]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[FILE_BIIN_AMX_ADM]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[FILE]]></Field>
+	<Field name="ColTxt" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[create table <?=snpRef.getObjectName("L", "%COL_PRF0EXT_ADM_FRT_RICCI_SINISTRO", "W") ?>
+(
+	C1_NR_SEQUENCIA	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C2_CD_DOCUMENTO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C3_NM_CLIENTE	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C4_NR_CNPJ	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C5_NM_CIDADE	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C6_NR_AGRUPA_NF	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C7_NM_FORMA_EMISSAO_NF	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C8_DT_VENCIMENTO_NF	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C9_CD_SINISTRO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C10_CD_FROTA	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C11_CD_PLACA_VEICULO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C12_NM_MODELO_VEICULO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C13_DT_ACIDENTE	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C14_DT_ABERTURA_OS	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C15_NR_HORA_ACIDENTE	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C16_CD_PREPOSTO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C17_NM_GRUPO_CLIENTE	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C18_NM_TIPO_SINISTRO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C19_NM_CLASSIFICACAO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C20_NR_CONTRATO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C21_VL_DIARIA	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C22_QT_SINISTRO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C23_NM_SERVICO_PRESTADO	VARCHAR2(4000) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C24_VL_SERVICO	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>,
+	C25_VL_TOTAL	VARCHAR2(255) <?=snpRef.getInfo("DEST_DDL_NULL") ?>
+)]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Carregando]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[SrcSet0]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Create work table]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpScenTask">
+		<Field name="ColConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColEncKey" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColIndEnc" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[FILE_BIIN_AMX_ADM]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColTechIntName" type="java.lang.String"><![CDATA[FILE]]></Field>
+	<Field name="ColTxt" type="java.lang.String"><![CDATA[select	NR_SEQUENCIA	C1_NR_SEQUENCIA,
+	CD_DOCUMENTO	C2_CD_DOCUMENTO,
+	NM_CLIENTE	C3_NM_CLIENTE,
+	NR_CNPJ	C4_NR_CNPJ,
+	NM_CIDADE	C5_NM_CIDADE,
+	NR_AGRUPA_NF	C6_NR_AGRUPA_NF,
+	NM_FORMA_EMISSAO_NF	C7_NM_FORMA_EMISSAO_NF,
+	DT_VENCIMENTO_NF	C8_DT_VENCIMENTO_NF,
+	CD_SINISTRO	C9_CD_SINISTRO,
+	CD_FROTA	C10_CD_FROTA,
+	CD_PLACA_VEICULO	C11_CD_PLACA_VEICULO,
+	NM_MODELO_VEICULO	C12_NM_MODELO_VEICULO,
+	DT_ACIDENTE	C13_DT_ACIDENTE,
+	DT_ABERTURA_OS	C14_DT_ABERTURA_OS,
+	NR_HORA_ACIDENTE	C15_NR_HORA_ACIDENTE,
+	CD_PREPOSTO	C16_CD_PREPOSTO,
+	NM_GRUPO_CLIENTE	C17_NM_GRUPO_CLIENTE,
+	NM_TIPO_SINISTRO	C18_NM_TIPO_SINISTRO,
+	NM_CLASSIFICACAO	C19_NM_CLASSIFICACAO,
+	NR_CONTRATO	C20_NR_CONTRATO,
+	VL_DIARIA	C21_VL_DIARIA,
+	QT_SINISTRO	C22_QT_SINISTRO,
+	NM_SERVICO_PRESTADO	C23_NM_SERVICO_PRESTADO,
+	VL_SERVICO	C24_VL_SERVICO,
+	VL_TOTAL	C25_VL_TOTAL
+from 	TABLE
+/*$$SNPS_START_KEYSNP$CRDWG_TABLESNP$CRTABLE_NAME=ADM_FRT_RICCI_SINISTROSNP$CRLOAD_FILE=<?=snpRef.getObjectName("L", "#90_BI_IN.v_BIIN_NM_ARQUIVO", "D") ?>SNP$CRFILE_FORMAT=DSNP$CRFILE_SEP_FIELD=0x003bSNP$CRFILE_SEP_LINE=0x000ASNP$CRFILE_FIRST_ROW=1SNP$CRFILE_ENC_FIELD="SNP$CRFILE_DEC_SEP=SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NR_SEQUENCIASNP$CRTYPE_NAME=STRINGSNP$CRORDER=1SNP$CRLINE_OFFSET=1SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=CD_DOCUMENTOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=2SNP$CRLINE_OFFSET=256SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_CLIENTESNP$CRTYPE_NAME=STRINGSNP$CRORDER=3SNP$CRLINE_OFFSET=511SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NR_CNPJSNP$CRTYPE_NAME=STRINGSNP$CRORDER=4SNP$CRLINE_OFFSET=766SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_CIDADESNP$CRTYPE_NAME=STRINGSNP$CRORDER=5SNP$CRLINE_OFFSET=1021SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NR_AGRUPA_NFSNP$CRTYPE_NAME=STRINGSNP$CRORDER=6SNP$CRLINE_OFFSET=1276SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_FORMA_EMISSAO_NFSNP$CRTYPE_NAME=STRINGSNP$CRORDER=7SNP$CRLINE_OFFSET=1531SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=DT_VENCIMENTO_NFSNP$CRTYPE_NAME=STRINGSNP$CRORDER=8SNP$CRLINE_OFFSET=1786SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=CD_SINISTROSNP$CRTYPE_NAME=STRINGSNP$CRORDER=9SNP$CRLINE_OFFSET=2041SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=CD_FROTASNP$CRTYPE_NAME=STRINGSNP$CRORDER=10SNP$CRLINE_OFFSET=2296SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=CD_PLACA_VEICULOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=11SNP$CRLINE_OFFSET=2551SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_MODELO_VEICULOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=12SNP$CRLINE_OFFSET=2806SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=DT_ACIDENTESNP$CRTYPE_NAME=STRINGSNP$CRORDER=13SNP$CRLINE_OFFSET=3061SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=DT_ABERTURA_OSSNP$CRTYPE_NAME=STRINGSNP$CRORDER=14SNP$CRLINE_OFFSET=3316SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NR_HORA_ACIDENTESNP$CRTYPE_NAME=STRINGSNP$CRORDER=15SNP$CRLINE_OFFSET=3571SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=CD_PREPOSTOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=16SNP$CRLINE_OFFSET=3826SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_GRUPO_CLIENTESNP$CRTYPE_NAME=STRINGSNP$CRORDER=17SNP$CRLINE_OFFSET=4081SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_TIPO_SINISTROSNP$CRTYPE_NAME=STRINGSNP$CRORDER=18SNP$CRLINE_OFFSET=4336SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_CLASSIFICACAOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=19SNP$CRLINE_OFFSET=4591SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NR_CONTRATOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=20SNP$CRLINE_OFFSET=4846SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=VL_DIARIASNP$CRTYPE_NAME=STRINGSNP$CRORDER=21SNP$CRLINE_OFFSET=5101SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=QT_SINISTROSNP$CRTYPE_NAME=STRINGSNP$CRORDER=22SNP$CRLINE_OFFSET=5356SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=NM_SERVICO_PRESTADOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=23SNP$CRLINE_OFFSET=5611SNP$CRLENGTH=4000SNP$CRSCALE=0SNP$CRPRECISION=4000SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=VL_SERVICOSNP$CRTYPE_NAME=STRINGSNP$CRORDER=24SNP$CRLINE_OFFSET=5866SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=VL_TOTALSNP$CRTYPE_NAME=STRINGSNP$CRORDER=25SNP$CRLINE_OFFSET=6121SNP$CRLENGTH=255SNP$CRSCALE=0SNP$CRPRECISION=255SNP$CR$$SNPS_END_KEY*/
+]]></Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefEncKey" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIndEnc" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[ORACLE_INN_NET_BI_STG]]></Field>
+	<Field name="DefPlanComp" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefTechIntName" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefTxt" type="java.lang.String"><![CDATA[insert into <?=snpRef.getObjectName("L", "%COL_PRF0EXT_ADM_FRT_RICCI_SINISTRO", "W") ?>
+(
+	C1_NR_SEQUENCIA,
+	C2_CD_DOCUMENTO,
+	C3_NM_CLIENTE,
+	C4_NR_CNPJ,
+	C5_NM_CIDADE,
+	C6_NR_AGRUPA_NF,
+	C7_NM_FORMA_EMISSAO_NF,
+	C8_DT_VENCIMENTO_NF,
+	C9_CD_SINISTRO,
+	C10_CD_FROTA,
+	C11_CD_PLACA_VEICULO,
+	C12_NM_MODELO_VEICULO,
+	C13_DT_ACIDENTE,
+	C14_DT_ABERTURA_OS,
+	C15_NR_HORA_ACIDENTE,
+	C16_CD_PREPOSTO,
+	C17_NM_GRUPO_CLIENTE,
+	C18_NM_TIPO_SINISTRO,
+	C19_NM_CLASSIFICACAO,
+	C20_NR_CONTRATO,
+	C21_VL_DIARIA,
+	C22_QT_SINISTRO,
+	C23_NM_SERVICO_PRESTADO,
+	C24_VL_SERVICO,
+	C25_VL_TOTAL
+)
+values
+(
+	:C1_NR_SEQUENCIA,
+	:C2_CD_DOCUMENTO,
+	:C3_NM_CLIENTE,
+	:C4_NR_CNPJ,
+	:C5_NM_CIDADE,
+	:C6_NR_AGRUPA_NF,
+	:C7_NM_FORMA_EMISSAO_NF,
+	:C8_DT_VENCIMENTO_NF,
+	:C9_CD_SINISTRO,
+	:C10_CD_FROTA,
+	:C11_CD_PLACA_VEICULO,
+	:C12_NM_MODELO_VEICULO,
+	:C13_DT_ACIDENTE,
+	:C14_DT_ABERTURA_OS,
+	:C15_NR_HORA_ACIDENTE,
+	:C16_CD_PREPOSTO,
+	:C17_NM_GRUPO_CLIENTE,
+	:C18_NM_TIPO_SINISTRO,
+	:C19_NM_CLASSIFICACAO,
+	:C20_NR_CONTRATO,
+	:C21_VL_DIARIA,
+	:C22_QT_SINISTRO,
+	:C23_NM_SERVICO_PRESTADO,
+	:C24_VL_SERVICO,
+	:C25_VL_TOTAL
+)
+]]></Field>
+	<Field name="ExeChannel" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[21]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[2015676]]></Field>
+	<Field name="ScenTaskNo" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="TaskName1" type="java.lang.String"><![CDATA[Carregando]]></Field>
+	<Field name="TaskName2" type="java.lang.String"><![CDATA[SrcSet0]]></Field>
+	<Field name="TaskName3" type="java.lang.String"><![CDATA[Load data]]></Field>
+	<Field name="TaskType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1404132747775]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[676]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1414707953937]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[677]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1414708044426]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[27]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1449148804585]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1432584334930]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[889]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1389382840869]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[557]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1374756760004]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[777]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1371506982753]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[776]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1371839851353]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[800]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1372367509341]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1373290762777]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[888]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1368107782374]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[666]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1332419619516]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[601]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1358360144865]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1332419619516]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[558]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1404134794333]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[890]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1423077091117]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1427566724820]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[891]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1411153345500]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[452]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1411167751966]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[576]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1422619308138]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[802]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1426611552677]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[801]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1426611407877]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[810]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1426619443202]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[577]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1427310535027]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[811]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1426619476445]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[28]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1432584616283]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1432585682184]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[551]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1375662673687]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1261163460906]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[251]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1371480514997]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[351]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1371583118790]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[361]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1349984645852]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[552]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1378585337882]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[572]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1261163460906]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[566]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1489530137926]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[11.1.1.9.0 - 01/07/2016]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt">null</Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[04.03.04.02]]></Field>
+</Object>
+</SunopsisExport>
